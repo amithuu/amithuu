@@ -6,23 +6,22 @@
 </div>  
   
 
-### <div align="center">I'm Amith, a Python developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Amith, a Python Automation Engineer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 
 
 ### Talentplace.ai  
 - 🔭 I’m currently working on [talentplace.ai]
-https://github.com/settings/emails.amithuu  
   
 
-- 🌱 I’m currently learning AWS and API Building   
+- 🌱 I’m currently learning Python Selenium and Some other Stuff on Automation API testing!!  
   
 
-- ❓ Ask me about anything related to Python and Python Automation and related technologies  
+- ❓ Ask me about anything related to Python and Python Automation and related technologies
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
   
 
 <br/>  
