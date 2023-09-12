@@ -52,6 +52,7 @@
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+  <a href="https://www.djangoproject.com/community/" target="_blank"><img style="margin: 10px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="C" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
