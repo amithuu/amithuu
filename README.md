@@ -1,12 +1,12 @@
 
 
-### Python Engineer  
+### Python BackEnd Developer
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Amith, a Python Automation Engineer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Amith, a Python Back End Developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 
@@ -15,10 +15,10 @@
 - 🔭 I’m currently working on [talentplace.ai]
   
 
-- 🌱 I’m currently learning Python Selenium and Some other Stuff on Automation API testing!!  
+- 🌱 I’m currently learning Python Django Advance Concepts liek Signals|Middleware and some external libraries liek Celery!!  
   
 
-- ❓ Ask me about anything related to Python and Python Automation and related technologies
+- ❓ Ask me about anything related to Python and related technologies
   
 
 - ⚡ Fun fact: I use tabs over spaces
