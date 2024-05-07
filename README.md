@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [talentplace.ai]
   
 
-- 🌱 I’m currently learning Python Django Advance Concepts liek Signals|Middleware and some external libraries liek Celery!!  
+- 🌱 I’m currently learning Python Django Advance Concepts liek Signals|Middleware and some external libraries like Celery!!  
   
 
 - ❓ Ask me about anything related to Python and related technologies
